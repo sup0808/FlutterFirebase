@@ -1,16 +1,20 @@
 # flutter_firebase
 
-A new Flutter project.
+# Firebase Cli setup
+https://www.youtube.com/watch?v=JA1KAQBDLXY&list=PLFyjjoCMAPtxS6Cx1XSjCfxOxHQ4_e0sL&index=2
 
-## Getting Started
+https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*18nndhr*_ga*NDcyODk3MzI4LjE3MTY1OTgyNzI.*_ga_CW55HF8NVT*MTcyMTAyNzI1NS40LjEuMTcyMTAyNzQ1NS40Ny4wLjA.#install-cli-windows
+--
+npm install -g firebase-tools
 
-This project is a starting point for a Flutter application.
+dart pub global activate flutterfire_cli
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutterfire configure --project=testing-flutter-cli
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Platform  Firebase App Id
+web       1:778570387142:web:6e62447e4978cdf449d1c7
+android   1:778570387142:android:c71e6149cf1a242849d1c7
+ios       1:778570387142:ios:8b5708d9f28be15149d1c7
+macos     1:778570387142:ios:8b5708d9f28be15149d1c7
+windows   1:778570387142:web:7eef39abbe8c8b7549d1c7

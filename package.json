@@ -1,0 +1,15 @@
+{
+  "name": "flutter_firebase",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=JA1KAQBDLXY&list=PLFyjjoCMAPtxS6Cx1XSjCfxOxHQ4_e0sL&index=2\r --\r npm install -g firebase-tools",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
